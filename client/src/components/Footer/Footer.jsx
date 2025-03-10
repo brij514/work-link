@@ -46,7 +46,7 @@ const Footer = () => {
       </div>
       <hr />
       <p className="footer-copyright text-black">
-        <span>Copyright 2024 © All Right Reserved</span>
+        <span>Copyright 2025 © All Right Reserved</span>
         <br />
         <div className="m-auto text-center font-serif ">
           <span>
